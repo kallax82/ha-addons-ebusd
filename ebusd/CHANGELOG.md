@@ -1,4 +1,8 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## version: 24.1
+
+- Update Dockerfile to ebusd-24.1-r0
+
 ## version: 23.2.6
 
 - Update HEALTHCHECK in Dockerfile to not use DNS [#126](https://github.com/LukasGrebe/ha-addons/issues/126) thanks @StCyr
